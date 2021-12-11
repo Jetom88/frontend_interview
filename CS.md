@@ -1,15 +1,15 @@
 # frontend_interview 🎤
 
 1. [CS 💻 ](#RESTful이란?)   
-    - [1. RESTful이란?](#RESTful이란)   
-    - [2. RESTful하다?](#RESTful하다?)
-    - [3. Restful API와 GraphQL 차이점](#Restful-API와-GraphQL-차이점)
-    - [4. CORS](#CORS)
-    - [5. URL](#URL?)
-    - [6. HTTP / HTTPS](#HTTP-/-HTTPS?)
-    - [7. JWT](#JWT?)
+    - [1. RESTful이란?](#1-RESTful이란)   
+    - [2. RESTful하다?](#2-RESTful하다?)
+    - [3. Restful API와 GraphQL 차이점](#3-Restful-API와-GraphQL-차이점)
+    - [4. CORS](#4-CORS)
+    - [5. URL](#5-URL?)
+    - [6. HTTP / HTTPS](#6-HTTP-/-HTTPS?)
+    - [7. JWT](#7-JWT?)
 
-### `1. RESTful이란`
+### 1. RESTful이란
 <details>
 <summary>설명</summary>
 REST(REpresentational State Transfer)ful API는 HTTP 통신에서 어떤 차원에 대한 CRUD 요청을 Resource와 Method로 표현하여 특정한 형태로 전달하는 방식<br/>
@@ -29,14 +29,14 @@ RESTful API는 아래와 같다.<br/>
 5. HEAD: header 정보 조회(HEAD)
 </details>
 
-### `2. RESTful하다?`
+### 2. RESTful하다?
 
 <details>
 <summary>설명</summary>
 많은 API 개발자들은 RESTful한 API란, ‘각 구성요소들의 역할이 완벽하게 분리되어 있는 것’ 이라고 한다. URI는 각 리소스(자원)를 명확하게 인식할 수 있도록 용이한 표현방식을 가져야 하며, 각 리소스에 대한 행위(메소드)를 HTTP 메소드를 이용하여 Uniform(일관성)하게 정의할 수 있어야 한다. 
 </details>
 
-### `3. Restful API와 GraphQL 차이점`
+### 3. Restful API와 GraphQL 차이점
 
 <details>
 <summary>설명</summary>
@@ -58,7 +58,7 @@ Restful API 로는 다양한 기종에서 필요한 정보들을 일일히 구�
 
 </details>
 
-### `4. CORS`
+### 4. CORS
 
 <details><summary>설명
 </summary>
@@ -67,7 +67,7 @@ Cross-Origin Resource Sharing(CORS)은 추가적인 HTTP header를 사용해서 
 
 </details>
 
-### `5. URL`
+### 5. URL
 
 <details><summary>설명
 </summary>
@@ -78,7 +78,7 @@ Cross-Origin Resource Sharing(CORS)은 추가적인 HTTP header를 사용해서 
 (이미지 출처: https://beomy.github.io/tech/browser/cors/)
 </details>
 
-### `6. HTTP / HTTPS`
+### 6. HTTP / HTTPS
 
 <details><summary>설명
 </summary>
@@ -91,7 +91,7 @@ Cross-Origin Resource Sharing(CORS)은 추가적인 HTTP header를 사용해서 
 
 </details>
 
-### `7. JWT`
+### 7. JWT
 
 <details><summary>설명
 </summary>
