@@ -1,6 +1,6 @@
 # frontend_interview 🎤
 
-1. [CS 💻 ](#)   
+1. [CS 💻 ]()   
     - [1. RESTful이란?](#1-RESTful이란)   
     - [2. RESTful하다?](#2-RESTful하다?)
     - [3. Restful API와 GraphQL 차이점](#3-Restful-API와-GraphQL-차이점)
