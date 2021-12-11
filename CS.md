@@ -1,13 +1,15 @@
 # frontend_interview 🎤
 
 1. [CS 💻 ](#RESTful이란?)   
-    - [1. RESTful이란?](#-RESTful이란?)   
-    - [2. RESTful하다?](#-RESTful하다?)
-    - [3. Restful API와 GraphQL 차이점](#-Restful_API와_GraphQL_차이점)
-    - [4. CORS](#-CORS)
-    - [5. URL?](#-URL?)
+    - [1. RESTful이란?](#RESTful이란)   
+    - [2. RESTful하다?](#RESTful하다?)
+    - [3. Restful API와 GraphQL 차이점](#Restful-API와-GraphQL-차이점)
+    - [4. CORS](#CORS)
+    - [5. URL](#URL?)
+    - [6. HTTP / HTTPS](#HTTP-/-HTTPS?)
+    - [7. JWT](#JWT?)
 
-### `1. RESTful이란?`
+### `1. RESTful이란`
 <details>
 <summary>설명</summary>
 REST(REpresentational State Transfer)ful API는 HTTP 통신에서 어떤 차원에 대한 CRUD 요청을 Resource와 Method로 표현하여 특정한 형태로 전달하는 방식<br/>
@@ -65,11 +67,37 @@ Cross-Origin Resource Sharing(CORS)은 추가적인 HTTP header를 사용해서 
 
 </details>
 
-### `5. URL?`
+### `5. URL`
 
 <details><summary>설명
 </summary>
 
 네트워크 상에서 자원이 어디 있는지를 알려주기 위한 규약 
+
+![url](https://user-images.githubusercontent.com/64053930/145674613-3725786d-dd58-402c-9d94-4310f0bf370c.png)<br/>
+(이미지 출처: https://beomy.github.io/tech/browser/cors/)
+</details>
+
+### `6. HTTP / HTTPS`
+
+<details><summary>설명
+</summary>
+
+- http<br/>
+    서버/클라이언트 모델을 따라 데이터를 주고 받기 위한 프로토콜
+    
+- https<br/>
+    HTTP에 데이터 암호화가 추가된 프로토콜
+
+</details>
+
+### `7. JWT`
+
+<details><summary>설명
+</summary>
+
+선택적 서명 및 선택적 암호화를 사용하여 데이터를 만들기 위한 인터넷 표준으로, 페이로드는 몇몇 클레임(claim) 표명(assert)을 처리하는 JSON을 보관하고 있다. 토큰은 비공개 시크릿 키 또는 공개/비공개 키를 사용하여 서명된다.
+
+JSON 객체를 사용해 입장권을 발급해준다고 생각하면 된다.
 
 </details>
