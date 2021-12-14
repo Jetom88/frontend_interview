@@ -1,15 +1,15 @@
 # frontend_interview 🎤
 
 1. [CS 💻 ](#RESTful이란?)   
-    - [1. RESTful이란?](#RESTful이란?)   
-    - [2. RESTful하다?](#RESTful하다?)
-    - [3. Restful API와 GraphQL 차이점](#Restful-API와-GraphQL-차이점)
-    - [4. CORS](#CORS)
-    - [5. URL?](#URL?)
-    - [6. HTTP / HTTPS?](#HTTP-/-HTTPS?)
-    - [7. JWT?](#JWT?)
-    - [8. 브라우저의 작동원리](#브라우저의-작동원리)
-    - [9. 렌더링 엔진](#렌더링-엔진)
+    - [1. RESTful이란?](#1-RESTful이란?)   
+    - [2. RESTful하다?](#2-RESTful하다?)
+    - [3. Restful API와 GraphQL 차이점](#3-Restful-API와-GraphQL-차이점)
+    - [4. CORS](#4-CORS)
+    - [5. URL?](#5-URL?)
+    - [6. HTTP / HTTPS?](#6-HTTP-/-HTTPS?)
+    - [7. JWT?](#7-JWT?)
+    - [8. 브라우저의 작동원리](#8-브라우저의-작동원리)
+    - [9. 렌더링 엔진](#9-렌더링-엔진)
 
 ### 1. RESTful이란?
 <details>
